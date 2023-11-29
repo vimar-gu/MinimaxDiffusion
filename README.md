@@ -71,6 +71,7 @@ python train.py -d imagenet --imagenet_dir /data/datasets/ImageNet/ \
 ## Results
 
 Performance comparison with state-of-the-art methods on ImageWoof. 
+We provide example generated images [here](https://drive.google.com/file/d/1oVool9rNOHmr7acZAeH9vERW64ZfqkG8) to reproduce the results. 
 <p align="center"><img src="./figs/results-imagewoof.png" align="center" width="750"></p>
 
 ## Acknowledgement

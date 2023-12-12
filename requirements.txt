@@ -4,4 +4,6 @@ transformers==4.27
 ftfy
 tensorboard
 Jinja2
+timm
+matplotlib
 diffusers==0.21.0

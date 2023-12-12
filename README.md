@@ -21,7 +21,7 @@ Set up the environment:
 ```bash
 conda create -n diff python=3.8
 conda activate diff
-pip install -r requirement.txt
+pip install -r requirements.txt
 ```
 
 Prepare the pre-trained DiT model:

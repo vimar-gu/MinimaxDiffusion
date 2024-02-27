@@ -5,6 +5,7 @@ Official implementation of "[Efficient Dataset Distillation via Minimax Diffusio
 <p align="center"><img src="./figs/sample-comparison.png" align="center" width="750"></p>
 
 ## Highlights :sparkles:
+- MinimaxDiffusion is accepted by CVPR2024!
 - MinimaxDiffusion only requires 1 hour to finish the distillation process of a 10-class ImageNet subset, including the fine-tuning and image generation processes. 
 - The efficient design of MinimaxDiffusion makes it possible to conduct practical distillation for surrogate datasets with larger IPC and resolution. 
 - MinimaxDiffusion achieves state-of-the-art performance on multiple ImageNet subsets. Especially on the fine-grained ImageWoof, it surpasses second-best DD method by 8.1% under the 100-IPC setting. 

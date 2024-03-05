@@ -85,10 +85,10 @@ This project is mainly developed based on the following works:
 ## Citation
 If you find this work helpful, please cite:
 ```
-@article{gu2023efficient,
+@inproceedings{gu2024efficient,
   title={Efficient Dataset Distillation via Minimax Diffusion},
-  author={Jianyang Gu and Saeed Vahidian and Vyacheslav Kungurtsev and Haonan Wang and Wei Jiang and Yang You and Yiran Chen},
-  journal={arXiv preprint arXiv:2311.15529},
-  year={2023}
+  author={Gu, Jianyang and Vahidian, Saeed and Kungurtsev, Vyacheslav and Wang, Haonan and Jiang, Wei and You, Yang and Chen, Yiran},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+  year={2024}
 }
 ```

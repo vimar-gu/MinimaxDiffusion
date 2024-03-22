@@ -78,7 +78,7 @@ Performance comparison with state-of-the-art methods on ImageWoof.
 We provide example generated images [here](https://drive.google.com/file/d/1oVool9rNOHmr7acZAeH9vERW64ZfqkG8) to reproduce the results. 
 <p align="center"><img src="./figs/results-imagewoof.png" align="center" width="750"></p>
 
-We further extend MinimaxDiffusion to the full ImageNet-1K dataset. The generated 50-IPC images can be found in [google drive](https://drive.google.com/file/d/1KNW5JqANFoTzSO--WXWhZZunigSQqGWd/view?usp=sharing). With a better validation protocol provided in [RDED](https://github.com/LINs-lab/RDED) the generated data achieves the following accuracy:
+We further extend MinimaxDiffusion to the full ImageNet-1K dataset. The generated 50-IPC images can be found in [google drive](https://drive.google.com/file/d/1HYZOiSEzJed67D_UTZEI2JElrsA6AM9n). With a better validation protocol provided in [RDED](https://github.com/LINs-lab/RDED) the generated data achieves the following accuracy:
 <p align="center"><img src="./figs/imagenet1k.png" align="center" width="400"></p>
 
 ## Acknowledgement
